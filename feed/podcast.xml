@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<atom:link rel="self" type="application/rss+xml" href="https://casualdata.com/adaptasyon/podcast.xml" />
+		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
 		<lastBuildDate>Sun, 31 May 2020 18:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
@@ -18,13 +18,13 @@
 			<itunes:email>mmyavuz@gmail.com</itunes:email>
 		</itunes:owner>
 		<image>
-			<url>https://casualdata.com/adaptasyon/Adaptasyon.jpg</url>
+			<url>https://raw.githubusercontent.com/mahir/adaptasyon/master/brand/Adaptasyon.jpg</url>
 			<title>Adaptasyon</title>
 			<link>https://adaptasyon.tumblr.com</link>
 			<width>144</width>
 			<height>144</height>
 		</image>
-		<itunes:image href="https://www.casualdata.com/adaptasyon/Adaptasyon.jpg"/>
+		<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/brand/Adaptasyon.jpg"/>
 		<itunes:category text="Society &amp; Culture"/>
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
