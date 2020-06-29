@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Sun, 14 Jun 2020 18:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jun 2020 18:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 12. Bölüm - Dislike</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Ne istediğini bulmaya çalışırken, düşünürsün ve bölünürsün. Neyi istemediğini ise iç organlarına kadar hissedersin. Bundan dolayı basit ve ulaşılabilir hoşnutsuzluk ifadelerine, sırf son harf kuşağının oyuncakları olarak bakılamaz. Sokakta ve dijitalde kalıcı güçleri vardır. Hatta katılımcı demokrasinin öncüleridirler.]]></description>
+			<itunes:subtitle>Ne istediğini bulmaya çalışırken, düşünürsün ve bölünürsün. Neyi istemediğini ise iç organlarına kadar hissedersin. Bundan dolayı basit ve ulaşılabilir hoşnutsuzluk ifadelerine, sırf son harf kuşağının oyuncakları olarak bakılamaz. Sokakta ve dijitalde kalıcı güçleri vardır. Hatta katılımcı demokrasinin öncüleridirler.</itunes:subtitle>
+			<itunes:summary>Ne istediğini bulmaya çalışırken, düşünürsün ve bölünürsün. Neyi istemediğini ise iç organlarına kadar hissedersin. Bundan dolayı basit ve ulaşılabilir hoşnutsuzluk ifadelerine, sırf son harf kuşağının oyuncakları olarak bakılamaz. Sokakta ve dijitalde kalıcı güçleri vardır. Hatta katılımcı demokrasinin öncüleridirler.</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-012.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-012-20200628.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-012-20200628.mp3</guid>
+			<pubDate>Sun, 28 Jun 2020 18:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:14:22</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 11. Bölüm - Semboller ve Troller</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
