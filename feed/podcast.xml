@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Sun, 05 Jul 2020 18:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Sun, 12 Jul 2020 18:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 14. Bölüm - Tic Tac Toe</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA["Anı Yaşayın" sloganı üzerine kurulu Çin menşeli TikTok, Hindistan ile Çin arasındaki sınır çatışmasından sonra Hindistan tarafından yasaklandı. İzinsiz veri topladığına dair bir post çıktı; Amazon çalışanlarından bu uygulamayı silmeleri istendi. Teknoloji üzerinden kurgulanan çok kutuplu yeni dünya düzenine hoşgeldiniz!]]></description>
+			<itunes:subtitle>"Anı Yaşayın" sloganı üzerine kurulu Çin menşeli TikTok, Hindistan ile Çin arasındaki sınır çatışmasından sonra Hindistan tarafından yasaklandı. İzinsiz veri topladığına dair bir post çıktı; Amazon çalışanlarından bu uygulamayı silmeleri istendi. Teknoloji üzerinden kurgulanan çok kutuplu yeni dünya düzenine hoşgeldiniz!</itunes:subtitle>
+			<itunes:summary>"Anı Yaşayın" sloganı üzerine kurulu Çin menşeli TikTok, Hindistan ile Çin arasındaki sınır çatışmasından sonra Hindistan tarafından yasaklandı. İzinsiz veri topladığına dair bir post çıktı; Amazon çalışanlarından bu uygulamayı silmeleri istendi. Teknoloji üzerinden kurgulanan çok kutuplu yeni dünya düzenine hoşgeldiniz!</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-014.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-014-20200712.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-014-20200712.mp3</guid>
+			<pubDate>Sun, 12 Jul 2020 18:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:13:01</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 13. Bölüm - Günlerin Sonu</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
