@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Tue, 28 Jul 2020 18:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Mon, 3 Aug 2020 18:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -30,12 +30,28 @@
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
 		<item>
+			<title>Adaptasyon 8. Dönem 16. Bölüm - Devlet 4.0</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Amerika'da Devlet, önümüzdeki yıllarda devleşecek. Burası kesin. Henüz bilinmeyenler ise, tepedeki teknoloji şirketlerini bölüp bölmeyeceği, gelir dağılımındaki eşitsizliğe deva olup olmayacağı ve gomonist başkanın kim olacağı.]]></description>
+			<itunes:subtitle>Amerika'da Devlet, önümüzdeki yıllarda devleşecek. Burası kesin. Henüz bilinmeyenler ise, tepedeki teknoloji şirketlerini bölüp bölmeyeceği, gelir dağılımındaki eşitsizliğe deva olup olmayacağı ve gomonist başkanın kim olacağı.</itunes:subtitle>
+			<itunes:summary>Amerika'da Devlet, önümüzdeki yıllarda devleşecek. Burası kesin. Henüz bilinmeyenler ise, tepedeki teknoloji şirketlerini bölüp bölmeyeceği, gelir dağılımındaki eşitsizliğe deva olup olmayacağı ve gomonist başkanın kim olacağı.</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-016.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-016-20200803.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-016-20200803.mp3</guid>
+			<pubDate>Mon, 3 Aug 2020 18:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:28:57</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
+		<item>
 			<title>Adaptasyon 8. Dönem 15. Bölüm - Anger Games</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
-			<description><![CDATA["Bu yıl olimpiyatlar yapılamadı. Onun yerine kılıçlar kalkanlar eşliğinde ayrı bir tezgah tertip ediliyor. Dünyanın dört bir köşesinden tek- tipçiler hababam sidik yarıştırıyor. Henüz "finish line" da ufukta gözükmemekte. Umutlar ise tüm tek tipçileri boyayıp geçecek olan bol renklilerde!]]></description>
-			<itunes:subtitle>"Bu yıl olimpiyatlar yapılamadı. Onun yerine kılıçlar kalkanlar eşliğinde ayrı bir tezgah tertip ediliyor. Dünyanın dört bir köşesinden tek- tipçiler hababam sidik yarıştırıyor. Henüz "finish line" da ufukta gözükmemekte. Umutlar ise tüm tek tipçileri boyayıp geçecek olan bol renklilerde!</itunes:subtitle>
-			<itunes:summary>"Bu yıl olimpiyatlar yapılamadı. Onun yerine kılıçlar kalkanlar eşliğinde ayrı bir tezgah tertip ediliyor. Dünyanın dört bir köşesinden tek- tipçiler hababam sidik yarıştırıyor. Henüz "finish line" da ufukta gözükmemekte. Umutlar ise tüm tek tipçileri boyayıp geçecek olan bol renklilerde!</itunes:summary>
+			<description><![CDATA[Bu yıl olimpiyatlar yapılamadı. Onun yerine kılıçlar kalkanlar eşliğinde ayrı bir tezgah tertip ediliyor. Dünyanın dört bir köşesinden tek- tipçiler hababam sidik yarıştırıyor. Henüz "finish line" da ufukta gözükmemekte. Umutlar ise tüm tek tipçileri boyayıp geçecek olan bol renklilerde!]]></description>
+			<itunes:subtitle>Bu yıl olimpiyatlar yapılamadı. Onun yerine kılıçlar kalkanlar eşliğinde ayrı bir tezgah tertip ediliyor. Dünyanın dört bir köşesinden tek- tipçiler hababam sidik yarıştırıyor. Henüz "finish line" da ufukta gözükmemekte. Umutlar ise tüm tek tipçileri boyayıp geçecek olan bol renklilerde!</itunes:subtitle>
+			<itunes:summary>Bu yıl olimpiyatlar yapılamadı. Onun yerine kılıçlar kalkanlar eşliğinde ayrı bir tezgah tertip ediliyor. Dünyanın dört bir köşesinden tek- tipçiler hababam sidik yarıştırıyor. Henüz "finish line" da ufukta gözükmemekte. Umutlar ise tüm tek tipçileri boyayıp geçecek olan bol renklilerde!</itunes:summary>
 			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-015.png"/>
 			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-015-20200728.mp3" type="audio/mpeg" />
 			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-015-20200728.mp3</guid>
