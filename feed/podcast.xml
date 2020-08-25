@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Tue, 18 Aug 2020 18:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Mon, 24 Aug 2020 18:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 19. Bölüm - Başkanlık 1</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Dört yılda bir Amerikan klasiği olan seçimler, Demokrat ve Cumhuriyetçiler'in kongrelerini yapmasıyla birlikte son dönemecine girmekte.]]></description>
+			<itunes:subtitle>Dört yılda bir Amerikan klasiği olan seçimler, Demokrat ve Cumhuriyetçiler'in kongrelerini yapmasıyla birlikte son dönemecine girmekte.</itunes:subtitle>
+			<itunes:summary>Dört yılda bir Amerikan klasiği olan seçimler, Demokrat ve Cumhuriyetçiler'in kongrelerini yapmasıyla birlikte son dönemecine girmekte.</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-019.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-019-20200824.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-019-20200824.mp3</guid>
+			<pubDate>Mon, 24 Aug 2020 18:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:29:19</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 18. Bölüm - Cepteki ZikZak</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
