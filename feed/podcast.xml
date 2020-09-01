@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Mon, 24 Aug 2020 18:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Mon, 31 Aug 2020 18:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 20. Bölüm - Başkanlık 2</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Geçen haftaki Cumhuriyetçi Kongresi, çok ateşli taraftarlarla doluydu. Kongre, hayranlara eğlenceli bir seçki sundu. Saray'daki son sahne ile de tamama erdi. Bu sıralarda dışarıda pick-up'lar, bisikletçi avına başlamışlardı bile.]]></description>
+			<itunes:subtitle>Geçen haftaki Cumhuriyetçi Kongresi, çok ateşli taraftarlarla doluydu. Kongre, hayranlara eğlenceli bir seçki sundu. Saray'daki son sahne ile de tamama erdi. Bu sıralarda dışarıda pick-up'lar, bisikletçi avına başlamışlardı bile.</itunes:subtitle>
+			<itunes:summary>Geçen haftaki Cumhuriyetçi Kongresi, çok ateşli taraftarlarla doluydu. Kongre, hayranlara eğlenceli bir seçki sundu. Saray'daki son sahne ile de tamama erdi. Bu sıralarda dışarıda pick-up'lar, bisikletçi avına başlamışlardı bile.</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-020.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-020-20200831.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-020-20200831.mp3</guid>
+			<pubDate>Mon, 31 Aug 2020 18:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:23:58</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 19. Bölüm - Başkanlık 1</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
