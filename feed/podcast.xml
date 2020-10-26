@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Tue, 20 Oct 2020 10:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2020 10:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 28. Bölüm - Başkanlık 10</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Amerika'da altmış milyon kişi oy kullandı bile. Ekseriye, bu erken oylar demokratlara, seçim günündeki oylar ise cumhuriyetçilere gidecek. Üstüne üstlük, erken oylar, seçim günü atılan oylardan Sonra sisteme giriliyor! Dolayısıyla sayım başladığında Trump, geceye önde başlayıp zaman ilerledikçe geri düşebilir. Akıllardaki soru şu: İşler sokağa taşar mı, hatta seçim mahkemelere taşınır mı?]]></description>
+			<itunes:subtitle>Amerika'da altmış milyon kişi oy kullandı bile. Ekseriye, bu erken oylar demokratlara, seçim günündeki oylar ise cumhuriyetçilere gidecek. Üstüne üstlük, erken oylar, seçim günü atılan oylardan Sonra sisteme giriliyor! Dolayısıyla sayım başladığında Trump, geceye önde başlayıp zaman ilerledikçe geri düşebilir. Akıllardaki soru şu: İşler sokağa taşar mı, hatta seçim mahkemelere taşınır mı?</itunes:subtitle>
+			<itunes:summary>Amerika'da altmış milyon kişi oy kullandı bile. Ekseriye, bu erken oylar demokratlara, seçim günündeki oylar ise cumhuriyetçilere gidecek. Üstüne üstlük, erken oylar, seçim günü atılan oylardan Sonra sisteme giriliyor! Dolayısıyla sayım başladığında Trump, geceye önde başlayıp zaman ilerledikçe geri düşebilir. Akıllardaki soru şu: İşler sokağa taşar mı, hatta seçim mahkemelere taşınır mı?</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-028.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-028-20201026.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-028-20201026.mp3</guid>
+			<pubDate>Mon, 26 Oct 2020 10:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:23:40</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 27. Bölüm - Başkanlık 9</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
