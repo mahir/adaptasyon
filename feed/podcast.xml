@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Mon, 26 Oct 2020 10:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Mon, 9 Nov 2020 10:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 29. Bölüm - Gece Yarısı Sonrası</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Amerika'nın seçimi sonuçlandı. Ülkenin yarısı sokaklarda dans etti. Diğer yarı ise şarjörleri doldurmuş bekliyor. Yok yok o kadar kötü değil. Ama yargıda yobazlar, meclislerde de prostatlar varken, ülkenin genç ilericilerine yürütme yolu açılmaz ve yok sayılırlarsa eğer...İşte o zaman kötü olacak!]]></description>
+			<itunes:subtitle>Amerika'nın seçimi sonuçlandı. Ülkenin yarısı sokaklarda dans etti. Diğer yarı ise şarjörleri doldurmuş bekliyor. Yok yok o kadar kötü değil. Ama yargıda yobazlar, meclislerde de prostatlar varken, ülkenin genç ilericilerine yürütme yolu açılmaz ve yok sayılırlarsa eğer...İşte o zaman kötü olacak!</itunes:subtitle>
+			<itunes:summary>Amerika'nın seçimi sonuçlandı. Ülkenin yarısı sokaklarda dans etti. Diğer yarı ise şarjörleri doldurmuş bekliyor. Yok yok o kadar kötü değil. Ama yargıda yobazlar, meclislerde de prostatlar varken, ülkenin genç ilericilerine yürütme yolu açılmaz ve yok sayılırlarsa eğer...İşte o zaman kötü olacak!</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-029.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-029-20201109.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-029-20201109.mp3</guid>
+			<pubDate>Mon, 9 Nov 2020 10:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:30:08</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 28. Bölüm - Başkanlık 10</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
