@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/mahir/adaptasyon/master/feed/podcast.xml" />
-		<lastBuildDate>Tue, 17 Nov 2020 10:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2020 10:00:00 -0400</lastBuildDate>
 		<title>Adaptasyon</title>
 		<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
 		<author>Onur Akmehmet &amp; Mahir Yavuz</author>
@@ -29,6 +29,22 @@
 		<itunes:explicit>clean</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		<item>
+			<title>Adaptasyon 8. Dönem 31. Bölüm - İmaj Köleliği</title>
+			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
+			<author>Onur Akmehmet &amp; Mahir Yavuz</author>
+			<description><![CDATA[Seçim sonrası Amerika'nın restorasyon süreci resmen başladı. Yıllardır nasıl Trump Amerika'ya, ihtişamlı günlere döneceğiz dediyse, Biden da tekrar saygıdeğer konuma dönüşü vaat ediyor. Referans alınan ihtişam veya saygıdeğerlik algısı bir yana şüphe götürmez olan bir şey var. O da eski tas eski hamam anlayış ve yöntemlerin ülkenin iyileşip yenilenmesine yetmeyeceği!]]></description>
+			<itunes:subtitle>Seçim sonrası Amerika'nın restorasyon süreci resmen başladı. Yıllardır nasıl Trump Amerika'ya, ihtişamlı günlere döneceğiz dediyse, Biden da tekrar saygıdeğer konuma dönüşü vaat ediyor. Referans alınan ihtişam veya saygıdeğerlik algısı bir yana şüphe götürmez olan bir şey var. O da eski tas eski hamam anlayış ve yöntemlerin ülkenin iyileşip yenilenmesine yetmeyeceği!</itunes:subtitle>
+			<itunes:summary>Seçim sonrası Amerika'nın restorasyon süreci resmen başladı. Yıllardır nasıl Trump Amerika'ya, ihtişamlı günlere döneceğiz dediyse, Biden da tekrar saygıdeğer konuma dönüşü vaat ediyor. Referans alınan ihtişam veya saygıdeğerlik algısı bir yana şüphe götürmez olan bir şey var. O da eski tas eski hamam anlayış ve yöntemlerin ülkenin iyileşip yenilenmesine yetmeyeceği!</itunes:summary>
+			<itunes:image href="https://raw.githubusercontent.com/mahir/adaptasyon/master/images/adaptasyon-08-031.png"/>
+			<enclosure url="https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-031-20201124.mp3" type="audio/mpeg" />
+			<guid>https://raw.githubusercontent.com/mahir/adaptasyon/master/episodes/Adaptasyon-08-031-20201124.mp3</guid>
+			<pubDate>Tue, 24 Nov 2020 10:00:00 -0400</pubDate>
+			<category>Podcasting</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:20:44</itunes:duration>
+			<itunes:keywords>adaptasyon, turkish, ekonomi, teknoloji, yeni medya, sohbet</itunes:keywords>
+		</item>
 		<item>
 			<title>Adaptasyon 8. Dönem 30. Bölüm - Araf</title>
 			<itunes:author>Onur Akmehmet &amp; Mahir Yavuz</itunes:author>
